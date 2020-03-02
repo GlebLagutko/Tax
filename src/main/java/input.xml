@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<individuals>
+    <individual name='Alex'>
+        <payments>
+            <payment value='150' paymentType='SALARY'/>
+            <payment value='50' paymentType='ROYALTIES'/>
+            <payment value='200' paymentType='SALE'/>
+            <payment value='150' paymentType='GIFT'/>
+            <payment value='120' paymentType='BENEFIT'/>
+            <payment value='150' paymentType='TRANSFER'/>
+            <payment value='170' paymentType='MATERIALHELP'/>
+        </payments>
+    </individual>
+    <individual name='Gleb'>
+        <payments>
+            <payment value='1320' paymentType='SALARY'/>
+            <payment value='5400' paymentType='ROYALTIES'/>
+            <payment value='2004' paymentType='SALE'/>
+            <payment value='1505' paymentType='GIFT'/>
+            <payment value='1202' paymentType='BENEFIT'/>
+            <payment value='1530' paymentType='TRANSFER'/>
+            <payment value='1740' paymentType='MATERIALHELP'/>
+        </payments>
+    </individual>
+</individuals>
